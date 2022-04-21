@@ -1,8 +1,13 @@
+#include<iostream>
+// #include<conio.h>// if we use getch(); function , we have to use this header file.
+using namespace std;
 
-#include<stdio.h>
-int main(){
-
-printf("Hello C Program");
-
-return 0;
+int main()
+{
+    
+   cout << "hello c plus plus";
+   return 0;
+   
+   // getch();
+   
 }
